@@ -1,0 +1,40 @@
+[package]
+name = "sql-parser-demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Parser combinators
+nom = "7.1"
+
+# Fast tokenization
+logos = "0.13"
+
+# Expression parsing with precedence
+pratt = "0.4"
+
+# Stack-safe recursion
+recursive = "0.1"
+
+# String similarity for error suggestions
+strsim = "0.10"
+
+# Better error handling
+thiserror = "1.0"
+anyhow = "1.0"
+
+# For colored output in examples
+colored = "2.0"
+
+[dev-dependencies]
+# For benchmarking
+criterion = "0.5"
+# For testing
+regex = "1.10"
+# For property-based testing
+proptest = "1.4"
+
+# Benchmarks can be added later
+# [[bench]]
+# name = "parser_bench"
+# harness = false
