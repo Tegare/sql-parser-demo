@@ -2,7 +2,7 @@
 
 A working implementation of SQL parser concepts demonstrating error tracking and zero-copy parsing techniques. 
 
-This demo accompanies the blog post: [Why We Built Our Own SQL Parser From Scratch: A Rust Implementation Story](../blog_post.md)
+This demo accompanies the blog post: [Why We Built Our Own SQL Parser From Scratch: A Rust Implementation Story](https://www.databend.com/blog/category-engineering/2025-09-10-query-parser/)
 
 ## Error Tracking with RefCell
 
